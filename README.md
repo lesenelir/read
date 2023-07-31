@@ -20,6 +20,12 @@ Logging the technical articles I've perused and various practical tools.
 ## Terminal
 
 
+## Tools
 
-## Icon
-- [Feather](https://feathericons.com/)
+### Icon
+- [Feather Icon](https://feathericons.com/)
+
+### Color
+- [Tailwind Color Shadow Generator](https://javisperez.github.io/tailwindcolorshades/)
+
+
