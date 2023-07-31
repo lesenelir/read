@@ -1,2 +1,25 @@
 # read
-Some reviewed literature and some practical tools
+Logging the technical articles I've perused and various practical tools.
+
+## JavaScript
+
+
+## TypeScript
+
+
+## React 
+- [React Dev](https://react.dev/)
+
+
+### React and Canvas
+- [Converting a Vanilla JS Canvas Animation to React](https://medium.com/@ruse.marshall/converting-a-vanilla-js-canvas-animation-to-react-78443bad6d7b)
+
+- [Canvas with React.js](https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258)
+
+
+## Terminal
+
+
+
+## Icon
+- [Feather](https://feathericons.com/)
