@@ -8,9 +8,9 @@ Logging the technical articles I've perused and various practical tools.
 
 
 ## JavaScript
-- [JavaScript教程](https://wangdoc.com/javascript/)
+- [JavaScript 教程](https://wangdoc.com/javascript/)
 
-- [ES6教程](https://wangdoc.com/es6/)
+- [ES6 教程](https://wangdoc.com/es6/)
 
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -36,7 +36,9 @@ Logging the technical articles I've perused and various practical tools.
 
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 
-- [React为什么会重新渲染](https://blog.skk.moe/post/react-re-renders-101/)
+- [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+
+- [React 为什么会重新渲染](https://blog.skk.moe/post/react-re-renders-101/)
 
 - [为什么你不应该在 React 中直接使用 useEffect 从 API 获取数据](https://blog.skk.moe/post/why-you-should-not-fetch-data-directly-in-use-effect/)
 
