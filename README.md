@@ -54,6 +54,8 @@ Logging the technical articles I've perused and various practical tools.
 
 - [The List of Web3 Articles and Courses](https://web3.career/learn-web3)
 
+- [A guide to Web3 for Web2 frontend devs](https://mirror.xyz/dhaiwat.eth/O5CK6Tjfv8uhl6FPbjT0yZ8LUwViDPWGYHdu9khRWpM)
+
 - [LearnWeb3 DAO](https://learnweb3.io/)
 
 - [Solidity by example](https://solidity-by-example.org/)
