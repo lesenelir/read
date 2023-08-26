@@ -42,6 +42,8 @@ Logging the technical articles I've perused and various practical tools.
 
 - [为什么你不应该在 React 中直接使用 useEffect 从 API 获取数据](https://blog.skk.moe/post/why-you-should-not-fetch-data-directly-in-use-effect/)
 
+- [Data fetching with React Suspense](https://blog.logrocket.com/data-fetching-react-suspense/)
+
 
 ### React and Canvas
 - [Converting a Vanilla JS Canvas Animation to React](https://medium.com/@ruse.marshall/converting-a-vanilla-js-canvas-animation-to-react-78443bad6d7b)
