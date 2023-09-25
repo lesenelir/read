@@ -51,6 +51,12 @@ Logging the technical articles I've perused and various practical tools.
 - [Canvas with React.js](https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258)
 
 
+## Node
+- [How to Create Your Own CLI with Node.js 1](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-9004091a64d5)
+
+- [How to Create Your Own CLI with Node.js 2](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-7646a976f8fa)
+
+
 ## Web3
 - [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)
 
