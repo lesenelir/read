@@ -51,6 +51,10 @@ Logging the technical articles I've perused and various practical tools.
 - [Canvas with React.js](https://medium.com/@pdx.lucasm/canvas-with-react-js-32e133c05258)
 
 
+### React server component
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+
+
 ## Node
 - [How to Create Your Own CLI with Node.js 1](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-9004091a64d5)
 
