@@ -54,6 +54,8 @@ Logging the technical articles I've perused and various practical tools.
 ### React server component
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 
+- [Why Server Components - A Brief History of Web](https://www.perssondennis.com/articles/why-server-components-a-brief-history-of-web#user-content-static-vs-dynamic-rendering)
+
 
 ## Node
 - [How to Create Your Own CLI with Node.js 1](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-9004091a64d5)
