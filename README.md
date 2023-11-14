@@ -44,6 +44,8 @@ Logging the technical articles I've perused and various practical tools.
 
 - [Data fetching with React Suspense](https://blog.logrocket.com/data-fetching-react-suspense/)
 
+- [File-based routing with React Router](https://omarelhawary.me/blog/file-based-routing-with-react-router)
+
 
 ### React and Canvas
 - [Converting a Vanilla JS Canvas Animation to React](https://medium.com/@ruse.marshall/converting-a-vanilla-js-canvas-animation-to-react-78443bad6d7b)
@@ -61,6 +63,8 @@ Logging the technical articles I've perused and various practical tools.
 - [How to Create Your Own CLI with Node.js 1](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-9004091a64d5)
 
 - [How to Create Your Own CLI with Node.js 2](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-7646a976f8fa)
+
+- [Building full stack TypeScript application with Turborepo](https://omarelhawary.me/blog/full-stack-typescript-with-turborepo)
 
 
 ## Web3
