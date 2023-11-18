@@ -64,6 +64,10 @@ Logging the technical articles I've perused and various practical tools.
 
 - [How to Create Your Own CLI with Node.js 2](https://javascript.plainenglish.io/how-to-create-your-own-cli-with-node-js-7646a976f8fa)
 
+- [SSR原理](https://github.com/yacan8/blog/issues/30)
+
+- [彻底理解服务端渲染原理](https://juejin.cn/post/6844903881390964744)
+
 - [Building full stack TypeScript application with Turborepo](https://omarelhawary.me/blog/full-stack-typescript-with-turborepo)
 
 
