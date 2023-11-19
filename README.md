@@ -70,6 +70,8 @@ Logging the technical articles I've perused and various practical tools.
 
 - [Building full stack TypeScript application with Turborepo](https://omarelhawary.me/blog/full-stack-typescript-with-turborepo)
 
+- [Managing a full-stack, multipackage monorepo using pnpm](https://blog.logrocket.com/managing-full-stack-monorepo-pnpm#sharing-code-full-stack-javascript-monorepo)
+
 
 ## Web3
 - [Web3 DApp 最佳编程实践指南](https://guoyu.mirror.xyz/RD-xkpoxasAU7x5MIJmiCX4gll3Cs0pAd5iM258S1Ek)
